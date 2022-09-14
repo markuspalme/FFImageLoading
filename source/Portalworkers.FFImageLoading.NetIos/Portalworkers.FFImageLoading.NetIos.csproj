@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0-ios</TargetFramework>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>true</ImplicitUsings>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Description>Image loading and caching library for .NET and iOS.</Description>
+        <PackageProjectUrl>https://github.com/markuspalme/FFImageLoading</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/markuspalme/FFImageLoading</RepositoryUrl>
+    </PropertyGroup>
+</Project>

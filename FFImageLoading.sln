@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFImageLoading.NetIos", "source\FFImageLoading.NetIos\FFImageLoading.NetIos.csproj", "{D3113F0C-27B3-410C-B5C3-4AD906DDD479}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portalworkers.FFImageLoading.NetIos", "source\Portalworkers.FFImageLoading.NetIos\Portalworkers.FFImageLoading.NetIos.csproj", "{D3113F0C-27B3-410C-B5C3-4AD906DDD479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFImageLoading.NetIos.Sample", "source\FFImageLoading.NetIos.Sample\FFImageLoading.NetIos.Sample.csproj", "{7EE45EE1-8891-436C-9D72-B7394D104BF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portalworkers.FFImageLoading.NetIos.Sample", "source\Portalworkers.FFImageLoading.NetIos.Sample\Portalworkers.FFImageLoading.NetIos.Sample.csproj", "{7EE45EE1-8891-436C-9D72-B7394D104BF4}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

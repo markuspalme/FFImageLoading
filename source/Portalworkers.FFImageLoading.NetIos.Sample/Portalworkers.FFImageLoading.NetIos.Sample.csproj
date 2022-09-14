@@ -5,8 +5,9 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>true</ImplicitUsings>
         <SupportedOSPlatformVersion>13.0</SupportedOSPlatformVersion>
+        <RootNamespace>FFImageLoading.NetIos.Sample</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-      <ProjectReference Include="..\source\FFImageLoading.NetIos\FFImageLoading.NetIos.csproj" />
+      <ProjectReference Include="..\Portalworkers.FFImageLoading.NetIos\Portalworkers.FFImageLoading.NetIos.csproj" />
     </ItemGroup>
 </Project>

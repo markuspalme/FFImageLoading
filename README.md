@@ -3,9 +3,13 @@
 This is a port of the iOS version of  `FFImageLoadingLibrary` https://github.com/luberda-molinet/FFImageLoading) to .NET 6
 only supporting the `net6-ios` TFM.
 
+Available on NuGet as `Portalworkers.FFImageLoading.NetIos` (https://www.nuget.org/packages/Portalworkers.FFImageLoading.NetIos/).
+
 Original Authors: Daniel Luberda, Fabien Molinet.
 
 Port by: Markus Palme
+
+
 
 ## Features
 
